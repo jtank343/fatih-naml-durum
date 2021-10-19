@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Fatih namlı dürüm
+N:;Fatih namlı dürüm;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:namlidurum@xn--fatihnamldrmmen-8vbbe21h.com
+item1.EMAIL;TYPE=INTERNET:mehmetkarabas179@gmail.com
+item1.X-ABLabel:
+item2.TEL:05453083001
+item2.X-ABLabel:Ev
+item3.TEL:02126316169
+item3.X-ABLabel:Ev
+item4.ORG:fatih namlı dürüm
+item4.X-ABLabel:
+item5.TITLE:resturant
+item5.X-ABLabel:
+NOTE:acılış 2008 
+CATEGORIES:fatih namlı dürüm,myContacts
+END:VCARD
